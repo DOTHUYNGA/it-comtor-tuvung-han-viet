@@ -2,10 +2,10 @@
 
 📂 Nội dung gồm:
 
-Bản dịch tài liệu chức năng phần mềm quản lý nhân viên
-Bảng từ vựng Hàn – Việt chuyên ngành
-Bảng so sánh song ngữ
-Tài liệu mô phỏng giao tiếp dự án (phiên dịch)
+- Bản dịch tài liệu chức năng phần mềm quản lý nhân viên
+- Bảng từ vựng Hàn – Việt chuyên ngành
+- Tài liệu mô phỏng giao tiếp dự án (phiên dịch)
+  
 📄 File chính:
 
 Tai-lieu-dich-song-ngu.pdf`
